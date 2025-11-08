@@ -1,5 +1,8 @@
 # 🎬 V-Films — Creative Storytelling Studio
 
+⚠️ Note: This repository is licensed under a proprietary license. The source code is for review/evaluation only and may not be copied, downloaded, redistributed, or used without prior written permission. To request access, contact javedgaur57@gmail.com
+
+
 > **“Where stories find their voice and form.”**  
 > A single-page responsive web experience crafted with **React + TailwindCSS**, blending visual storytelling, animation, and API integration.
 
